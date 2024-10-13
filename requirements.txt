@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+taskipy
+ruff
+httpx
+fastapi
+uvicorn
